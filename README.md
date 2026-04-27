@@ -16,7 +16,7 @@ This project focuses on analyzing bank loan data to extract meaningful insights 
   * Seaborn
 * Power BI – Interactive dashboard and visualization
 
-#  Project Workflow
+#  Project Workflow 
 
 1. Data Cleaning (Excel) -
 
@@ -73,9 +73,6 @@ This project focuses on analyzing bank loan data to extract meaningful insights 
 
 This project demonstrates a complete data analytics pipeline from raw data to insights using multiple tools and technologies. It highlights strong skills in data handling, SQL querying, Python analysis, and data visualization.
 
----
 
 # Author
 Durga
-
-Your Name
