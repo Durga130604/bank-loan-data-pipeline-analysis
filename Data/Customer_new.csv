@@ -1,0 +1,251 @@
+customer_id,customer_name,age,gender,marital_status,state,employment_type,annual_income,dependents,customer_segment
+1001,Pranav Joshi,50,Male,Single,Maharashtra,Salaried,1196261,0,Medium
+1002,Harsh Agarwal,36,Male,Married,Karnataka,Salaried,1905215,1,High
+1003,Vikram Choudhary,29,Male,Married,Delhi,Salaried,1442845,3,Medium
+1004,Sneha Yadav,42,Female,Married,Delhi,Salaried,2146504,2,High
+1005,Karthik Iyer,40,Male,Single,Delhi,Salaried,2435307,3,High
+1006,Ishita Reddy,44,Female,Married,Delhi,Salaried,1106739,3,Medium
+1007,Meera Agarwal,32,Female,Married,Delhi,Salaried,2183851,3,High
+1008,Rahul Yadav,32,Male,Married,Bihar,Salaried,2196055,0,High
+1009,Rohan Mehta,45,Male,Single,Karnataka,Self-employed,1505289,2,High
+1010,Neha Jain,57,Female,Married,Delhi,Salaried,1690077,2,High
+1011,Ankit Mishra,45,Male,Married,Karnataka,Salaried,743351,3,Medium
+1012,Sneha Yadav,24,Female,Single,Bihar,Salaried,267642,0,Low
+1013,Riya Gupta,43,Female,Married,Bihar,Self-employed,290093,0,Low
+1014,Sanya Kumar,23,Female,Married,Karnataka,Salaried,1756182,2,High
+1015,Aadhya Singh,45,Female,Single,Madhya Pradesh,Salaried,417215,0,Low
+1016,Tanvi Joshi,51,Female,Married,Maharashtra,Self-employed,2203679,0,High
+1017,Aarav Sharma,59,Male,Single,Madhya Pradesh,Self-employed,1955856,0,High
+1018,Sai Reddy,23,Male,Single,Madhya Pradesh,Self-employed,1932465,1,High
+1019,Shreya Mishra,42,Female,Married,Madhya Pradesh,Salaried,235954,3,Low
+1020,Nandini Choudhary,54,Female,Married,Delhi,Salaried,726861,2,Medium
+1021,Rahul Yadav,33,Male,Married,Bihar,Self-employed,2244424,2,High
+1022,Ankit Mishra,43,Male,Married,Madhya Pradesh,Self-employed,1086040,1,Medium
+1023,Diya Verma,46,Female,Single,Bihar,Salaried,522918,3,Low
+1024,Vivaan Singh,48,Male,Married,Karnataka,Salaried,1272328,2,Medium
+1025,Pooja Mehta,49,Female,Single,Maharashtra,Salaried,2445909,0,High
+1026,Manish Gupta,37,Male,Married,Karnataka,Self-employed,316739,2,Low
+1027,Sneha Yadav,36,Female,Married,Karnataka,Salaried,2090969,0,High
+1028,Ankit Mishra,24,Male,Married,Delhi,Salaried,1486585,1,Medium
+1029,Riya Gupta,58,Female,Single,Maharashtra,Salaried,980316,0,Medium
+1030,Krishna Patel,28,Male,Married,Karnataka,Salaried,1566853,2,High
+1031,Aditya Kumar,42,Male,Married,Karnataka,Salaried,1214929,2,Medium
+1032,Pooja Mehta,30,Female,Married,Maharashtra,Salaried,1766847,2,High
+1033,Aarav Sharma,39,Male,Married,Maharashtra,Self-employed,1680035,1,High
+1034,Aadhya Singh,25,Female,Single,Karnataka,Salaried,388456,1,Low
+1035,Vikram Choudhary,46,Male,Married,Maharashtra,Salaried,2206032,3,High
+1036,Ishita Reddy,35,Female,Single,Karnataka,Salaried,428504,2,Low
+1037,Krishna Patel,30,Male,Single,Karnataka,Salaried,1894693,0,High
+1038,Diya Verma,47,Female,Single,Delhi,Salaried,2244491,1,High
+1039,Ankit Mishra,23,Male,Single,Madhya Pradesh,Salaried,1774486,2,High
+1040,Nandini Choudhary,41,Female,Single,Karnataka,Salaried,773044,2,Medium
+1041,Sai Reddy,49,Male,Single,Bihar,Salaried,1289385,1,Medium
+1042,Nandini Choudhary,28,Female,Married,Madhya Pradesh,Salaried,1789589,3,High
+1043,Ananya Sharma,29,Female,Single,Madhya Pradesh,Self-employed,916756,1,Medium
+1044,Kavya Iyer,56,Female,Single,Madhya Pradesh,Salaried,251226,1,Low
+1045,Rahul Yadav,35,Male,Single,Delhi,Self-employed,1426476,0,Medium
+1046,Pooja Mehta,38,Female,Married,Karnataka,Salaried,772212,0,Medium
+1047,Manish Gupta,57,Male,Married,Delhi,Self-employed,424137,3,Low
+1048,Tanvi Joshi,25,Female,Single,Karnataka,Self-employed,1700844,2,High
+1049,Vivaan Singh,23,Male,Married,Delhi,Salaried,1129168,1,Medium
+1050,Shreya Mishra,27,Female,Single,Delhi,Salaried,563476,3,Low
+1051,Sai Reddy,25,Male,Single,Bihar,Salaried,1600283,0,High
+1052,Ankit Mishra,50,Male,Married,Delhi,Salaried,1933309,1,High
+1053,Shreya Mishra,39,Female,Single,Maharashtra,Self-employed,1759161,2,High
+1054,Pranav Joshi,47,Male,Married,Bihar,Self-employed,891757,0,Medium
+1055,Sai Reddy,55,Male,Married,Delhi,Self-employed,590719,0,Low
+1056,Priya Patel,31,Female,Single,Madhya Pradesh,Salaried,1727937,0,High
+1057,Aditya Kumar,57,Male,Single,Maharashtra,Self-employed,1349947,3,Medium
+1058,Ankit Mishra,35,Male,Married,Maharashtra,Self-employed,2318324,2,High
+1059,Aditya Kumar,52,Male,Single,Maharashtra,Salaried,2253490,1,High
+1060,Aadhya Singh,36,Female,Single,Bihar,Salaried,1196121,3,Medium
+1061,Manish Gupta,29,Male,Single,Delhi,Self-employed,908362,3,Medium
+1062,Tanvi Joshi,35,Female,Married,Delhi,Salaried,1076031,3,Medium
+1063,Rohan Mehta,44,Male,Married,Madhya Pradesh,Self-employed,2238435,0,High
+1064,Ankit Mishra,42,Male,Single,Madhya Pradesh,Salaried,1470896,2,Medium
+1065,Aditya Kumar,37,Male,Married,Maharashtra,Self-employed,1259622,3,Medium
+1066,Sanya Kumar,39,Female,Married,Madhya Pradesh,Salaried,428071,1,Low
+1067,Krishna Patel,45,Male,Married,Bihar,Salaried,578165,2,Low
+1068,Rohan Mehta,47,Male,Married,Delhi,Salaried,2194849,1,High
+1069,Riya Gupta,46,Female,Married,Maharashtra,Self-employed,908662,2,Medium
+1070,Arjun Verma,50,Male,Single,Madhya Pradesh,Self-employed,1515573,1,High
+1071,Aadhya Singh,36,Female,Single,Bihar,Salaried,1212117,0,Medium
+1072,Priya Patel,22,Female,Single,Bihar,Salaried,845188,3,Medium
+1073,Krishna Patel,46,Male,Married,Madhya Pradesh,Self-employed,1731191,1,High
+1074,Riya Gupta,28,Female,Married,Delhi,Salaried,615008,2,Medium
+1075,Pranav Joshi,30,Male,Single,Madhya Pradesh,Self-employed,1831993,3,High
+1076,Tanvi Joshi,45,Female,Married,Maharashtra,Salaried,1709090,3,High
+1077,Kavya Iyer,22,Female,Single,Madhya Pradesh,Salaried,1370365,2,Medium
+1078,Manish Gupta,29,Male,Single,Bihar,Salaried,879418,1,Medium
+1079,Shreya Mishra,45,Female,Single,Madhya Pradesh,Salaried,900780,0,Medium
+1080,Shreya Mishra,32,Female,Married,Delhi,Self-employed,1811754,0,High
+1081,Nandini Choudhary,38,Female,Married,Karnataka,Salaried,1314593,1,Medium
+1082,Sneha Yadav,29,Female,Single,Madhya Pradesh,Salaried,1426952,3,Medium
+1083,Sanya Kumar,56,Female,Single,Delhi,Self-employed,1936857,3,High
+1084,Manish Gupta,56,Male,Single,Delhi,Salaried,856884,3,Medium
+1085,Ishita Reddy,54,Female,Single,Bihar,Salaried,1806872,3,High
+1086,Rohan Mehta,26,Male,Married,Delhi,Self-employed,1303913,1,Medium
+1087,Neha Jain,49,Female,Married,Delhi,Self-employed,1524070,3,High
+1088,Sai Reddy,28,Male,Single,Delhi,Salaried,1858987,2,High
+1089,Siddharth Jain,30,Male,Single,Delhi,Self-employed,1748459,3,High
+1090,Meera Agarwal,29,Female,Married,Maharashtra,Self-employed,1793445,0,High
+1091,Ishita Reddy,33,Female,Married,Maharashtra,Salaried,1861793,3,High
+1092,Kavya Iyer,55,Female,Single,Bihar,Salaried,816036,1,Medium
+1093,Aarav Sharma,54,Male,Single,Madhya Pradesh,Self-employed,1580346,0,High
+1094,Ananya Sharma,44,Female,Single,Delhi,Self-employed,993392,1,Medium
+1095,Vivaan Singh,45,Male,Married,Madhya Pradesh,Salaried,628988,1,Medium
+1096,Krishna Patel,58,Male,Married,Madhya Pradesh,Self-employed,380553,0,Low
+1097,Rahul Yadav,56,Male,Married,Bihar,Self-employed,760696,1,Medium
+1098,Neha Jain,43,Female,Single,Delhi,Salaried,899983,1,Medium
+1099,Priya Patel,48,Female,Single,Delhi,Salaried,1391902,3,Medium
+1100,Arjun Verma,56,Male,Married,Karnataka,Salaried,1259920,2,Medium
+1101,Rohan Mehta,22,Male,Married,Madhya Pradesh,Self-employed,2220836,1,High
+1102,Neha Jain,56,Female,Single,Madhya Pradesh,Salaried,2402575,1,High
+1103,Vikram Choudhary,58,Male,Married,Maharashtra,Salaried,664071,1,Medium
+1104,Neha Jain,35,Female,Married,Karnataka,Self-employed,386833,3,Low
+1105,Arjun Verma,24,Male,Single,Maharashtra,Self-employed,917912,2,Medium
+1106,Nandini Choudhary,22,Female,Married,Maharashtra,Salaried,975435,0,Medium
+1107,Aarav Sharma,26,Male,Single,Maharashtra,Self-employed,2374606,3,High
+1108,Sanya Kumar,47,Female,Single,Bihar,Salaried,1760473,3,High
+1109,Aditya Kumar,35,Male,Single,Bihar,Self-employed,1764718,2,High
+1110,Meera Agarwal,48,Female,Single,Maharashtra,Salaried,1145439,2,Medium
+1111,Ananya Sharma,30,Female,Single,Karnataka,Salaried,2334793,3,High
+1112,Rahul Yadav,36,Male,Single,Madhya Pradesh,Self-employed,1802575,0,High
+1113,Harsh Agarwal,36,Male,Single,Karnataka,Salaried,2105350,3,High
+1114,Shreya Mishra,47,Female,Married,Delhi,Salaried,1617616,2,High
+1115,Karthik Iyer,34,Male,Single,Bihar,Self-employed,812121,0,Medium
+1116,Kavya Iyer,53,Female,Single,Madhya Pradesh,Self-employed,2129465,2,High
+1117,Krishna Patel,53,Male,Married,Madhya Pradesh,Self-employed,1724102,0,High
+1118,Tanvi Joshi,25,Female,Married,Delhi,Self-employed,1941134,1,High
+1119,Aadhya Singh,51,Female,Married,Delhi,Salaried,864180,2,Medium
+1120,Tanvi Joshi,58,Female,Single,Maharashtra,Salaried,2235848,2,High
+1121,Tanvi Joshi,44,Female,Married,Bihar,Salaried,1128626,3,Medium
+1122,Riya Gupta,36,Female,Single,Bihar,Salaried,404615,2,Low
+1123,Aadhya Singh,50,Female,Single,Karnataka,Self-employed,1725233,2,High
+1124,Ankit Mishra,57,Male,Single,Maharashtra,Salaried,2003740,1,High
+1125,Karthik Iyer,34,Male,Single,Maharashtra,Salaried,1038003,2,Medium
+1126,Aarav Sharma,53,Male,Married,Maharashtra,Salaried,481570,1,Low
+1127,Ishita Reddy,28,Female,Married,Maharashtra,Self-employed,266150,1,Low
+1128,Aadhya Singh,43,Female,Single,Bihar,Salaried,2087383,1,High
+1129,Riya Gupta,49,Female,Single,Bihar,Salaried,2418978,1,High
+1130,Neha Jain,23,Female,Single,Maharashtra,Salaried,759723,0,Medium
+1131,Pranav Joshi,27,Male,Married,Karnataka,Self-employed,2131451,3,High
+1132,Arjun Verma,49,Male,Single,Madhya Pradesh,Salaried,1199554,0,Medium
+1133,Ishita Reddy,49,Female,Single,Madhya Pradesh,Self-employed,334055,2,Low
+1134,Ankit Mishra,41,Male,Married,Karnataka,Self-employed,876022,0,Medium
+1135,Rahul Yadav,51,Male,Married,Maharashtra,Salaried,1009942,0,Medium
+1136,Kavya Iyer,32,Female,Single,Bihar,Self-employed,896358,2,Medium
+1137,Krishna Patel,49,Male,Married,Madhya Pradesh,Self-employed,1342647,2,Medium
+1138,Ishita Reddy,46,Female,Married,Delhi,Self-employed,2041648,2,High
+1139,Sai Reddy,54,Male,Single,Delhi,Salaried,1555267,0,High
+1140,Kavya Iyer,22,Female,Married,Karnataka,Salaried,2443541,0,High
+1141,Shreya Mishra,48,Female,Single,Maharashtra,Self-employed,1888472,2,High
+1142,Riya Gupta,34,Female,Married,Madhya Pradesh,Salaried,1211727,3,Medium
+1143,Pooja Mehta,24,Female,Single,Maharashtra,Self-employed,454444,3,Low
+1144,Aditya Kumar,27,Male,Single,Madhya Pradesh,Self-employed,2407169,1,High
+1145,Shreya Mishra,29,Female,Single,Karnataka,Self-employed,323618,2,Low
+1146,Meera Agarwal,48,Female,Married,Karnataka,Salaried,659297,1,Medium
+1147,Shreya Mishra,30,Female,Single,Delhi,Salaried,1220154,3,Medium
+1148,Harsh Agarwal,58,Male,Married,Maharashtra,Self-employed,950865,1,Medium
+1149,Riya Gupta,54,Female,Single,Delhi,Self-employed,740659,2,Medium
+1150,Rahul Yadav,45,Male,Single,Maharashtra,Salaried,2293373,2,High
+1151,Shreya Mishra,36,Female,Married,Delhi,Self-employed,1846836,2,High
+1152,Sai Reddy,53,Male,Single,Bihar,Self-employed,1441835,0,Medium
+1153,Vikram Choudhary,53,Male,Single,Bihar,Salaried,1070123,1,Medium
+1154,Shreya Mishra,45,Female,Married,Bihar,Salaried,2059582,3,High
+1155,Rohan Mehta,33,Male,Single,Bihar,Salaried,2169510,3,High
+1156,Priya Patel,23,Female,Single,Madhya Pradesh,Salaried,450195,3,Low
+1157,Tanvi Joshi,24,Female,Single,Bihar,Salaried,1392324,0,Medium
+1158,Sneha Yadav,58,Female,Single,Karnataka,Self-employed,2329885,0,High
+1159,Krishna Patel,38,Male,Married,Karnataka,Salaried,1989616,2,High
+1160,Pranav Joshi,23,Male,Married,Madhya Pradesh,Salaried,726338,3,Medium
+1161,Tanvi Joshi,23,Female,Single,Bihar,Salaried,2407148,0,High
+1162,Ishita Reddy,49,Female,Married,Bihar,Salaried,758221,2,Medium
+1163,Ankit Mishra,44,Male,Single,Bihar,Self-employed,749239,3,Medium
+1164,Kavya Iyer,58,Female,Married,Delhi,Salaried,756701,1,Medium
+1165,Sanya Kumar,53,Female,Single,Maharashtra,Salaried,1414449,2,Medium
+1166,Ananya Sharma,54,Female,Single,Delhi,Self-employed,1959555,0,High
+1167,Aarav Sharma,22,Male,Single,Maharashtra,Salaried,1099005,0,Medium
+1168,Rohan Mehta,40,Male,Single,Bihar,Salaried,1236580,2,Medium
+1169,Vikram Choudhary,23,Male,Single,Bihar,Salaried,633816,2,Medium
+1170,Neha Jain,47,Female,Single,Delhi,Salaried,1470464,0,Medium
+1171,Pooja Mehta,53,Female,Married,Delhi,Salaried,985332,1,Medium
+1172,Kavya Iyer,27,Female,Single,Maharashtra,Salaried,1994029,3,High
+1173,Harsh Agarwal,53,Male,Married,Karnataka,Salaried,967950,1,Medium
+1174,Sneha Yadav,25,Female,Single,Maharashtra,Self-employed,366472,2,Low
+1175,Pooja Mehta,32,Female,Married,Delhi,Salaried,597710,1,Low
+1176,Ananya Sharma,38,Female,Married,Delhi,Salaried,322744,0,Low
+1177,Riya Gupta,59,Female,Married,Madhya Pradesh,Self-employed,1978627,2,High
+1178,Aditya Kumar,45,Male,Single,Delhi,Salaried,2263499,3,High
+1179,Vivaan Singh,26,Male,Single,Madhya Pradesh,Self-employed,1750522,0,High
+1180,Ishita Reddy,55,Female,Married,Karnataka,Salaried,791652,0,Medium
+1181,Vikram Choudhary,27,Male,Single,Maharashtra,Self-employed,1111420,3,Medium
+1182,Karthik Iyer,43,Male,Married,Maharashtra,Salaried,1031460,3,Medium
+1183,Sneha Yadav,32,Female,Single,Madhya Pradesh,Salaried,1110775,1,Medium
+1184,Meera Agarwal,37,Female,Married,Maharashtra,Salaried,1960574,2,High
+1185,Vikram Choudhary,54,Male,Married,Delhi,Self-employed,1901165,3,High
+1186,Tanvi Joshi,30,Female,Single,Bihar,Salaried,1112727,3,Medium
+1187,Siddharth Jain,27,Male,Married,Madhya Pradesh,Salaried,1933693,2,High
+1188,Sanya Kumar,37,Female,Single,Maharashtra,Salaried,758924,3,Medium
+1189,Rohan Mehta,50,Male,Married,Madhya Pradesh,Self-employed,379352,3,Low
+1190,Sneha Yadav,24,Female,Married,Madhya Pradesh,Salaried,1010694,1,Medium
+1191,Rohan Mehta,41,Male,Single,Bihar,Self-employed,2490435,0,High
+1192,Sai Reddy,57,Male,Single,Delhi,Salaried,1172346,0,Medium
+1193,Karthik Iyer,40,Male,Single,Madhya Pradesh,Salaried,1115015,0,Medium
+1194,Neha Jain,47,Female,Married,Maharashtra,Salaried,1698771,0,High
+1195,Rohan Mehta,24,Male,Single,Karnataka,Salaried,1198974,3,Medium
+1196,Aarav Sharma,40,Male,Married,Madhya Pradesh,Salaried,631413,2,Medium
+1197,Sneha Yadav,41,Female,Married,Madhya Pradesh,Salaried,1552564,2,High
+1198,Aadhya Singh,53,Female,Single,Bihar,Self-employed,1151661,1,Medium
+1199,Vivaan Singh,28,Male,Single,Delhi,Salaried,1063561,1,Medium
+1200,Harsh Agarwal,54,Male,Married,Karnataka,Salaried,502186,3,Low
+1201,Shreya Mishra,39,Female,Married,Maharashtra,Salaried,1495160,2,Medium
+1202,Aadhya Singh,22,Female,Single,Karnataka,Salaried,1226553,2,Medium
+1203,Neha Jain,32,Female,Single,Maharashtra,Salaried,1435202,0,Medium
+1204,Sanya Kumar,49,Female,Single,Delhi,Salaried,345271,3,Low
+1205,Sneha Yadav,46,Female,Single,Maharashtra,Salaried,2415685,3,High
+1206,Ankit Mishra,44,Male,Single,Bihar,Self-employed,1168452,0,Medium
+1207,Sanya Kumar,52,Female,Married,Bihar,Self-employed,1714542,3,High
+1208,Vivaan Singh,51,Male,Married,Bihar,Salaried,2363414,3,High
+1209,Sai Reddy,56,Male,Married,Bihar,Salaried,276898,1,Low
+1210,Vikram Choudhary,28,Male,Married,Karnataka,Self-employed,488316,2,Low
+1211,Neha Jain,37,Female,Single,Delhi,Salaried,2208954,3,High
+1212,Aditya Kumar,47,Male,Single,Maharashtra,Salaried,2029553,1,High
+1213,Siddharth Jain,23,Male,Single,Maharashtra,Salaried,1239504,2,Medium
+1214,Ishita Reddy,22,Female,Married,Bihar,Self-employed,1932767,0,High
+1215,Siddharth Jain,33,Male,Married,Bihar,Self-employed,2305058,1,High
+1216,Krishna Patel,26,Male,Single,Madhya Pradesh,Salaried,993719,1,Medium
+1217,Riya Gupta,58,Female,Single,Delhi,Salaried,915080,2,Medium
+1218,Sai Reddy,53,Male,Married,Karnataka,Salaried,1875843,0,High
+1219,Pranav Joshi,30,Male,Married,Maharashtra,Self-employed,234701,1,Low
+1220,Krishna Patel,56,Male,Single,Madhya Pradesh,Salaried,1921610,3,High
+1221,Shreya Mishra,40,Female,Single,Madhya Pradesh,Salaried,2380712,3,High
+1222,Nandini Choudhary,37,Female,Married,Maharashtra,Self-employed,2340794,3,High
+1223,Meera Agarwal,24,Female,Single,Karnataka,Salaried,691036,0,Medium
+1224,Karthik Iyer,41,Male,Single,Madhya Pradesh,Self-employed,527304,1,Low
+1225,Vikram Choudhary,45,Male,Single,Madhya Pradesh,Salaried,2052610,3,High
+1226,Priya Patel,54,Female,Married,Delhi,Salaried,1342953,0,Medium
+1227,Siddharth Jain,45,Male,Married,Karnataka,Salaried,526916,3,Low
+1228,Aditya Kumar,32,Male,Married,Madhya Pradesh,Self-employed,512250,2,Low
+1229,Aadhya Singh,29,Female,Married,Karnataka,Self-employed,805409,1,Medium
+1230,Shreya Mishra,57,Female,Married,Maharashtra,Self-employed,1274135,1,Medium
+1231,Aarav Sharma,59,Male,Married,Bihar,Salaried,1056101,0,Medium
+1232,Aditya Kumar,41,Male,Married,Madhya Pradesh,Self-employed,1925690,0,High
+1233,Krishna Patel,56,Male,Single,Delhi,Salaried,1814737,1,High
+1234,Nandini Choudhary,46,Female,Single,Maharashtra,Salaried,1092964,3,Medium
+1235,Ananya Sharma,56,Female,Single,Karnataka,Self-employed,2161275,3,High
+1236,Pooja Mehta,46,Female,Single,Maharashtra,Salaried,603119,2,Medium
+1237,Diya Verma,50,Female,Single,Madhya Pradesh,Salaried,1335564,3,Medium
+1238,Sai Reddy,39,Male,Single,Karnataka,Salaried,325991,0,Low
+1239,Nandini Choudhary,39,Female,Single,Bihar,Salaried,602732,0,Medium
+1240,Tanvi Joshi,23,Female,Married,Maharashtra,Salaried,706079,3,Medium
+1241,Ananya Sharma,56,Female,Married,Madhya Pradesh,Salaried,2150013,0,High
+1242,Sanya Kumar,37,Female,Single,Delhi,Salaried,1332658,1,Medium
+1243,Riya Gupta,57,Female,Single,Karnataka,Self-employed,2185209,1,High
+1244,Aditya Kumar,54,Male,Married,Maharashtra,Self-employed,328322,3,Low
+1245,Pranav Joshi,25,Male,Single,Maharashtra,Salaried,856951,1,Medium
+1246,Meera Agarwal,54,Female,Single,Bihar,Salaried,211303,1,Low
+1247,Vivaan Singh,35,Male,Married,Bihar,Salaried,1410209,2,Medium
+1248,Diya Verma,42,Female,Single,Delhi,Salaried,1498266,2,Medium
+1249,Diya Verma,41,Female,Married,Delhi,Salaried,1209612,1,Medium
+1250,Pranav Joshi,29,Male,Single,Madhya Pradesh,Self-employed,2032684,3,High
